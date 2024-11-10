@@ -57,7 +57,7 @@ class HomeView extends GetView<HomeController> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Image.asset(
-                          'assets/images/logo.png',
+                          'assets/images/home_image.png',
                           width: 300,
                         ),
                       ],
@@ -335,7 +335,7 @@ class HomeView extends GetView<HomeController> {
                       child: Container(
                         // height: Get.height * 0.6,
                         child: Image.asset(
-                          'assets/images/logo.png',
+                          'assets/images/home_image.png',
                           // height: 40.w,
                           width: 80.w,
                         ),

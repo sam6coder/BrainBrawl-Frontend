@@ -1099,21 +1099,24 @@ class CompetitionView extends GetView<CompetitionController> {
                   ),
                 )
                 : Center(
-                    child: Column(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        const CircularProgressIndicator(),
-                        const SizedBox(
-                          height: 20,
-                        ),
-                        Text(
-                          "Loading Competitions",
-                          style: GoogleFonts.spaceMono(
-                              fontSize: 20,
-                              fontWeight: FontWeight.bold,
-                              color: Colors.white),
-                        )
-                      ],
+                    child: Padding(
+                      padding: const EdgeInsets.only(top:200.0),
+                      child: Column(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          const CircularProgressIndicator(),
+                          const SizedBox(
+                            height: 20,
+                          ),
+                          Text(
+                            "Loading Competitions",
+                            style: GoogleFonts.spaceMono(
+                                fontSize: 20,
+                                fontWeight: FontWeight.bold,
+                                color: Colors.white),
+                          )
+                        ],
+                      ),
                     ),
                   ),
           ),
