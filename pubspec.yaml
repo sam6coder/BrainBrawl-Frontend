@@ -1,0 +1,46 @@
+name: brainbrawl
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  flutter_svg: ^0.22.0
+  flutter: 
+    sdk: flutter
+  firebase_core: ^2.13.1
+  firebase_database: ^10.2.2
+  cloud_firestore: ^4.8.0
+  firebase_auth: ^4.6.2
+  dio: ^5.2.1+1
+  http: ^1.0.0
+  shared_preferences: ^2.2.0
+  circular_countdown_timer: ^0.2.3
+  flutter_native_timezone: ^2.0.0
+  scroll_loop_auto_scroll: ^0.0.5
+  quiver: ^3.2.1
+  flutterwebapp_reload_detector: ^0.0.1
+  loading_animations: ^2.2.0
+  loading_indicator: ^3.1.1
+  sizer: ^2.0.15
+  blurrycontainer: ^1.0.2
+  hovering: ^1.0.4
+  google_fonts: ^6.1.0
+  gradient_borders: ^1.0.0
+
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - assets/participants/
+    - assets/images/
+    - assets/json/
+
