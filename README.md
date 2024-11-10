@@ -18,7 +18,7 @@ Upon logging in, users will be directed to a webpage displaying all currently ac
 
 ### Backend Repository Link: https://github.com/Dhruv-IGI/BrainBrawl-Backend
 ### Project Presentation: https://www.canva.com/design/DAGV-0z1-Vs/Ijt0aEiSeATno8YV02Mm8w/view?utm_content=DAGV-0z1-Vs&utm_campaign=designshare&utm_medium=link&utm_source=editor
-### Hosted Project Link: https://bit.ly/brain_brawl
+### Hosted Project Link: https://brainbrawl-3268e.web.app/
 ### Figma Design Link: https://www.figma.com/design/hWSQ276GrtnrQfDn5Nguof/HackCbs-7-Brain_Brawl?node-id=0-1&node-type=canvas&t=ONRuFWN1Vzlm3scQ-0
 
 ## Snapshots
