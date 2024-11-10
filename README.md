@@ -1,4 +1,4 @@
-# Brainbrawl frontend
+![image](https://github.com/user-attachments/assets/80e0cf81-5289-442d-a975-5e862a65748b)# Brainbrawl frontend
 ## Problem Statement:
 "In an era where educational institutions seek advanced and seamless methods for academic assessments, a challenge persists in providing user-friendly, real-time evaluation platforms for universities and colleges. The current systems often lack interactive features and fail to deliver an engaging 1v1 contest-based assessment experience. The absence of such an effective evaluation platform hinders the enhancement of learning experiences and the achievement of academic excellence within educational institutions. This prompts the need to address the deficiency by developing an innovative, comprehensive solution that facilitates real-time, user-friendly evaluations while fostering interactive 1v1 contest-based assessments, aligning with the project's vision to empower educational institutions and promote enhanced learning experiences."
 
@@ -26,7 +26,7 @@ Upon logging in, users will be directed to a webpage displaying all currently ac
 
 ![Home Page](https://github.com/Dhruv-IGI/BrainBrawl/assets/86194637/fa2cdbe3-b2fd-4fff-b9ac-d7444058131c)
 ![joining test details](https://github.com/Dhruv-IGI/BrainBrawl/assets/86194637/41c9436c-1a41-4ff4-aa25-67f7ea62c2e6)
-![About Us](https://github.com/Dhruv-IGI/BrainBrawl/assets/86194637/63760ba0-da47-4825-98fd-95246ca0179e)
+![About Us]([Uploading image.png…])
 
 
 
