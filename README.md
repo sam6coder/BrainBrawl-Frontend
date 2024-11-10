@@ -26,7 +26,8 @@ Upon logging in, users will be directed to a webpage displaying all currently ac
 
 ![Home Page](https://github.com/Dhruv-IGI/BrainBrawl/assets/86194637/fa2cdbe3-b2fd-4fff-b9ac-d7444058131c)
 ![joining test details](https://github.com/Dhruv-IGI/BrainBrawl/assets/86194637/41c9436c-1a41-4ff4-aa25-67f7ea62c2e6)
-![About Us]([Uploading image.png…])
+![About Us](![image](https://github.com/user-attachments/assets/1d15ebaa-7b33-4319-b692-187452bc554d)
+)
 
 
 
